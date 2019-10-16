@@ -1,5 +1,5 @@
 # MyQuanXProfile
-A simple QuanX profile. Deproived from ConnersHua Profile. Icon set link is from zealson.
+A simple QuanX profile. Derived from ConnersHua Profile. Icon set link is from zealson.
 
 ConnersHua QuantumultX Profile Github:https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X
 
