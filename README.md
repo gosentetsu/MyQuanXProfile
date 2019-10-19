@@ -5,7 +5,9 @@ ConnersHua QuantumultX Profile Github:https://github.com/ConnersHua/Profiles/tre
 
 Zealson Iconset Reference Github:https://github.com/zealson/Zure
 
-Raw link address:https://raw.githubusercontent.com/LeafNg/MyQuanXProfile/master/QuanX.conf
+Raw link address:
+https://raw.githubusercontent.com/LeafNg/MyQuanXProfile/master/Append_Telegram_Speedtest.conf
+https://raw.githubusercontent.com/LeafNg/MyQuanXProfile/master/Append_Netease_Speedtest.conf
 
 
 ![Screenshot](https://raw.githubusercontent.com/LeafNg/MyQuanXProfile/master/Screenshot.JPEG)
