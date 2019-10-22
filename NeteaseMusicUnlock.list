@@ -1,0 +1,24 @@
+# > NeteaseMusic Pictures
+host-suffix, p1.music.126.net, direct
+host-suffix, p2.music.126.net, direct
+host-suffix, p3.music.126.net, direct
+host-suffix, p4.music.126.net, direct
+host-suffix, p5.music.126.net, direct
+host-suffix, p1c.music.126.net, direct
+host-suffix, p2c.music.126.net, direct
+host-suffix, p3c.music.126.net, directz
+host-suffix, p4c.music.126.net, direct
+host-suffix, p5c.music.126.net, direct
+# > NeteaseMusic
+host-suffix, music.163.com, NeteaseMusicUnlock
+host-suffix, music.126.net, NeteaseMusicUnlock
+host-keyword, netease, NeteaseMusicUnlock
+user-agent, NeteaseMusic*, NeteaseMusicUnlock
+user-agent, NeteaseMusic**, NeteaseMusicUnlock
+user-agent, NeteaseMusic*, NeteaseMusicUnlock
+user-agent, NeteaseMusic**, NeteaseMusicUnlock
+user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, NeteaseMusicUnlock
+user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**, NeteaseMusicUnlock
+ip-cidr, 59.111.128.0/17, NeteaseMusicUnlock
+ip-cidr, 115.236.112.0/20, NeteaseMusicUnlock
+ip-cidr, 223.252.192.0/19, NeteaseMusicUnlock
