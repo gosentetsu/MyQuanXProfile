@@ -1,11 +1,14 @@
 # MyQuanXProfile
-A simple QuanX profile. Derived from ConnersHua Profile. Iconset link is from zealson.
+A simple QuanX profile. Derived from ConnersHua Profile. Iconset link is from ~~zealson~~ koolson.
 
 ConnersHua QuantumultX Profile Github:
 https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X
 
-Zealson Iconset Reference Github:
-https://github.com/zealson/Zure
+~~Zealson Iconset Reference Github:~~
+~~https://github.com/zealson/Zure~~
+
+Koolson Iconset Reference Github:
+https://github.com/Koolson/Qure
 
 Raw link address:                                 
 https://raw.githubusercontent.com/LeafNg/MyQuanXProfile/master/Append_Telegram_Speedtest.conf
