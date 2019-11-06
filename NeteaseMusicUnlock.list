@@ -1,24 +1,44 @@
-# > NeteaseMusic Pictures
-host-suffix, p1.music.126.net, direct
-host-suffix, p2.music.126.net, direct
-host-suffix, p3.music.126.net, direct
-host-suffix, p4.music.126.net, direct
-host-suffix, p5.music.126.net, direct
-host-suffix, p1c.music.126.net, direct
-host-suffix, p2c.music.126.net, direct
-host-suffix, p3c.music.126.net, direct
-host-suffix, p4c.music.126.net, direct
-host-suffix, p5c.music.126.net, direct
-# > NeteaseMusic
-host-suffix, music.163.com, NeteaseMusicUnlock
-host-suffix, music.126.net, NeteaseMusicUnlock
-host-keyword, netease, NeteaseMusicUnlock
-user-agent, NeteaseMusic*, NeteaseMusicUnlock
-user-agent, NeteaseMusic**, NeteaseMusicUnlock
-user-agent, NeteaseMusic*, NeteaseMusicUnlock
-user-agent, NeteaseMusic**, NeteaseMusicUnlock
-user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, NeteaseMusicUnlock
-user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**, NeteaseMusicUnlock
-ip-cidr, 59.111.128.0/17, NeteaseMusicUnlock
-ip-cidr, 115.236.112.0/20, NeteaseMusicUnlock
-ip-cidr, 223.252.192.0/19, NeteaseMusicUnlock
+DOMAIN-SUFFIX,p1.music.126.net,DIRECT
+DOMAIN-SUFFIX,p2.music.126.net,DIRECT
+DOMAIN-SUFFIX,p3.music.126.net,DIRECT
+DOMAIN-SUFFIX,p4.music.126.net,DIRECT
+DOMAIN-SUFFIX,p5.music.126.net,DIRECT
+DOMAIN-SUFFIX,p1c.music.126.net,DIRECT
+DOMAIN-SUFFIX,p2c.music.126.net,DIRECT
+DOMAIN-SUFFIX,p3c.music.126.net,DIRECT
+DOMAIN-SUFFIX,p4c.music.126.net,DIRECT
+DOMAIN-SUFFIX,p5c.music.126.net,DIRECT
+DOMAIN-SUFFIX,interface.music.163.com,NeteaseMusicUnlock
+DOMAIN-SUFFIX,interface1.music.163.com,NeteaseMusicUnlock
+DOMAIN-SUFFIX,interface2.music.163.com,NeteaseMusicUnlock
+DOMAIN-SUFFIX,interface3.music.163.com,NeteaseMusicUnlock
+DOMAIN-SUFFIX,interface4.music.163.com,NeteaseMusicUnlock
+DOMAIN-SUFFIX,interface5.music.163.com,NeteaseMusicUnlock
+DOMAIN-SUFFIX,apm.music.163.com,NeteaseMusicUnlock
+DOMAIN-SUFFIX,apm3.music.163.com,NeteaseMusicUnlock
+DOMAIN-SUFFIX,man.netease.com,NeteaseMusicUnlock
+DOMAIN-SUFFIX,api.iplay.163.com,NeteaseMusicUnlock
+DOMAIN-SUFFIX,ac.dun.163yun.com,NeteaseMusicUnlock
+DOMAIN-SUFFIX,mr.da.netease.com,NeteaseMusicUnlock
+DOMAIN-SUFFIX,crash.163.com,NeteaseMusicUnlock
+DOMAIN-SUFFIX,imap.163.com,NeteaseMusicUnlock
+DOMAIN-SUFFIX,music.126.net,NeteaseMusicUnlock
+DOMAIN-SUFFIX,music.163.com,NeteaseMusicUnlock
+DOMAIN-KEYWORD,netease,NeteaseMusicUnlock
+IP-CIDR,59.111.181.60/32,NeteaseMusicUnlock
+IP-CIDR,223.252.199.66/32,NeteaseMusicUnlock
+IP-CIDR,223.252.199.67/32,NeteaseMusicUnlock
+IP-CIDR,59.111.160.195/32,NeteaseMusicUnlock
+IP-CIDR,59.111.160.197/32,NeteaseMusicUnlock
+IP-CIDR,59.111.181.35/32,NeteaseMusicUnlock
+IP-CIDR,59.111.181.38/32,NeteaseMusicUnlock
+IP-CIDR,39.105.63.80/32,NeteaseMusicUnlock
+IP-CIDR,47.100.127.239/32,NeteaseMusicUnlock
+IP-CIDR,118.24.63.156/32,NeteaseMusicUnlock
+IP-CIDR,193.112.159.225/32,NeteaseMusicUnlock
+IP-CIDR,59.111.181.155/32,NeteaseMusicUnlock
+IP-CIDR,115.236.118.33/32,NeteaseMusicUnlock
+IP-CIDR,59.111.128.0/17,NeteaseMusicUnlock
+IP-CIDR,115.236.112.0/20,NeteaseMusicUnlock
+IP-CIDR,223.252.192.0/19,NeteaseMusicUnlock
+IP-CIDR,101.71.154.241/32,NeteaseMusicUnlock
