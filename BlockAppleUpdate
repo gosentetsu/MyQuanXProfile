@@ -1,9 +1,0 @@
-# Software Update
-# > iOS updates
-DOMAIN,appldnld.apple.com,REJECT
-DOMAIN,ns.itunes.apple.com,REJECT
-# > iOS, tvOS, and macOS
-DOMAIN,mesu.apple.com,REJECT
-DOMAIN,updates.cdn-apple.com,REJECT
-DOMAIN,updates-http.cdn-apple.com,REJECT
-DOMAIN,xp.apple.com,REJECT
