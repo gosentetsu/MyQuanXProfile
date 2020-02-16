@@ -32,3 +32,4 @@ IP-CIDR,59.111.128.0/17,NeteaseMusicUnlock
 IP-CIDR,115.236.112.0/20,NeteaseMusicUnlock
 IP-CIDR,223.252.192.0/19,NeteaseMusicUnlock
 IP-CIDR,101.71.154.241/32,NeteaseMusicUnlock
+IP-CIDR,223.252.199.10,Reject 
