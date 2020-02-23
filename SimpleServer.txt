@@ -1,4 +1,4 @@
 ;vmess=example.com:443, method=chacha20-poly1305, password=23ad6b10-8d1a-40f7-8ad0-e3e35cd32291, obfs=wss, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=vmess-ws-tls
 ;http=example.com:80, username=name, password=pwd, fast-open=false, udp-relay=false, tag=http
 http=192.168.123.1:5200,tag=192.168.123.1:5200
-http=192.168.123.1:5201,tag=192.168.123.1:5200
+http=192.168.123.1:5201,tag=192.168.123.1:5201
