@@ -14,7 +14,9 @@ DOMAIN-SUFFIX,crash.163.com,NeteaseMusicUnlock
 DOMAIN-SUFFIX,imap.163.com,NeteaseMusicUnlock
 DOMAIN-SUFFIX,music.126.net,NeteaseMusicUnlock
 DOMAIN-SUFFIX,music.163.com,NeteaseMusicUnlock
-DOMAIN-KEYWORD,netease,NeteaseMusicUnlock
+USER-AGENT,NeteaseMusic*,NeteaseMusicUnlock
+USER-AGENT,NeteaseMusic**,NeteaseMusicUnlock
+#DOMAIN-KEYWORD,netease,NeteaseMusicUnlock
 IP-CIDR,59.111.181.60/32,NeteaseMusicUnlock
 IP-CIDR,223.252.199.66/32,NeteaseMusicUnlock
 IP-CIDR,223.252.199.67/32,NeteaseMusicUnlock
