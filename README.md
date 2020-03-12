@@ -15,7 +15,7 @@ https://github.com/Koolson/Qure
 
 Raw link address:
 
-https://raw.githubusercontent.com/LeafNg/MyQuanXProfile/master/Append_Telegram_Speedtest.conf
+https://raw.githubusercontent.com/LeafNg/MyQuanXProfile/master/myconfig.conf
 
 [filter_remote] of this configure is
 
