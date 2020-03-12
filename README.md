@@ -1,6 +1,9 @@
 # MyQuanXProfile
 A simple QuanX profile. Derived from ConnersHua Profile. Iconset link is from ~~zealson~~ koolson.
 
+Crossutility QuantumultX Github:
+https://github.com/crossutility/Quantumult-X
+
 ConnersHua QuantumultX Profile Github:
 https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X
 
