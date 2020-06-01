@@ -2,5 +2,5 @@
 ;http=example.com:80, username=name, password=pwd, fast-open=false, udp-relay=false, tag=http
 http=192.168.123.1:5200,tag=192.168.123.1:5200
 http=192.168.123.1:5201,tag=192.168.123.1:5201
-http=gosentetsu.xyz,tag=Aliyun
+http=gosentetsu.xyz:8080,tag=Aliyun
 http=49.234.85.149:10086,tag=YyxTest
