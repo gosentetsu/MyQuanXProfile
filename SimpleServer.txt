@@ -1,7 +1,7 @@
 ;vmess=example.com:443, method=chacha20-poly1305, password=23ad6b10-8d1a-40f7-8ad0-e3e35cd32291, obfs=wss, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=vmess-ws-tls
 ;http=example.com:80, username=name, password=pwd, fast-open=false, udp-relay=false, tag=http
-http=192.168.123.1:5200,tag=192.168.123.1:5200
-http=192.168.123.1:5201,tag=192.168.123.1:5201
-http=gosentetsu.xyz:8080,tag=Aliyun8080
-http=gosentetsu.xyz:8081,tag=Aliyun8081
+;http=192.168.123.1:5200,tag=192.168.123.1:5200
+;http=192.168.123.1:5201,tag=192.168.123.1:5201
+http=gosentetsu.xyz:7777,tag=Aliyun7777
+http=gosentetsu.xyz:7778,tag=Aliyun7778
 http=49.234.85.149:10086,tag=YYX
